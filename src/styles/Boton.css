@@ -16,6 +16,10 @@ button:hover{
 
 }
 
+button:active{
+    font-size: 30px;
+}
+
 .boton-clic{
     background-color: #002ead;
 }
